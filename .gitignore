@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+# ingnora carpeta y archivo de variable de entorno
+venv/
+.env
