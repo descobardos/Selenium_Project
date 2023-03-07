@@ -43,4 +43,5 @@ df = pd.DataFrame({'date':date, 'home_team':home_team, 'score':score, 'away_team
 df.to_csv('football.csv', index=False)
 print(df)
 
-#time.sleep(5) 
+#time.sleep(5)
+#git status
