@@ -44,4 +44,3 @@ df.to_csv('football.csv', index=False)
 print(df)
 
 #time.sleep(5)
-#git status
